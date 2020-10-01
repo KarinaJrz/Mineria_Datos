@@ -4,7 +4,7 @@
 
 ## Fase 1 | Gpo 002 | Matricula 1802920
 
-[MapaMental 1](https://github.com/KarinaJrz/Mineria_Datos/blob/master/MapaMental_1_1802920.pdf)
+[Mapa Mental 1](https://github.com/KarinaJrz/Mineria_Datos/blob/master/MapaMental_1_1802920.pdf)
 
 [Presentación_VisualizacióndeDatos](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Presentacion_Visualizacion%20de%20datos_002.pdf)
 
@@ -14,6 +14,6 @@
 
 [Ejercicios1_Visualización de datos_002 (PDF)](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Ejercicios1_Visualizaci%C3%B3n%20de%20datos_002.pdf)
 
-[MapaMental 2](https://github.com/KarinaJrz/Mineria_Datos/blob/master/MapaMental_2_1802920.pdf)
+[Mapa Mental 2](https://github.com/KarinaJrz/Mineria_Datos/blob/master/MapaMental_2_1802920.pdf)
 
 [Resúmenes](https://github.com/KarinaJrz/Mineria_Datos/blob/master/Res%C3%BAmenes_1802920.pdf)
