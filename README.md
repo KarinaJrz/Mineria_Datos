@@ -13,3 +13,7 @@
 [Ejercicio Visualización_PYTHON](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Visualizaci%C3%B3n.ipynb)
 
 [Ejercicios1_Visualización de datos_002 (PDF)](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Ejercicios1_Visualizaci%C3%B3n%20de%20datos_002.pdf)
+
+[MapaMental 2_1802920](https://github.com/KarinaJrz/Mineria_Datos/blob/master/MapaMental_2_1802920.pdf)
+
+[Resúmenes_1802920](https://github.com/KarinaJrz/Mineria_Datos/blob/master/Res%C3%BAmenes_1802920.pdf)
