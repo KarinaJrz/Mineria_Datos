@@ -2,7 +2,9 @@
 
 # Mineria de Datos 
 
-## Fase 1 | Gpo 002 | Matricula 1802920
+# Gpo 002 | Matricula 1802920
+
+## Fase 1 
 
 [Mapa Mental 1](https://github.com/KarinaJrz/Mineria_Datos/blob/master/MapaMental_1_1802920.pdf)
 
@@ -17,3 +19,8 @@
 [Mapa Mental 2](https://github.com/KarinaJrz/Mineria_Datos/blob/master/MapaMental_2_1802920.pdf)
 
 [Resúmenes](https://github.com/KarinaJrz/Mineria_Datos/blob/master/Res%C3%BAmenes_1802920.pdf)
+
+
+## Fase 2 
+
+[Ejercicios Bases de Datos](https://github.com/KarinaJrz/Mineria_Datos/blob/master/Ejercicios_BasesdeDatos.pdf)
