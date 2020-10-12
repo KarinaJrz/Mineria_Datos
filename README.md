@@ -2,7 +2,7 @@
 
 # Mineria de Datos 
 
-# Gpo 002 | Matricula 1802920
+# Gpo 002 | Matrícula 1802920
 
 ## Fase 1 
 
