@@ -1,6 +1,6 @@
 # FCFM
 
-# Mineria de Datos 
+# Minería de Datos 
 
 # Gpo 002 | Matrícula 1802920
 
