@@ -23,4 +23,4 @@
 
 ## Fase 2 
 
-[Ejercicios Bases de Datos](https://github.com/KarinaJrz/Mineria_Datos/blob/master/Ejercicios_BasesdeDatos.pdf)
+[Análisis BD](https://github.com/KarinaJrz/Mineria_Datos/blob/master/An%C3%A1lisisBD_1802920.pdf)
