@@ -24,3 +24,5 @@
 ## Fase 2 
 
 [Análisis BD](https://github.com/KarinaJrz/Mineria_Datos/blob/master/An%C3%A1lisisBD_1802920.pdf)
+
+[Python Básico. Ejercicios](https://github.com/KarinaJrz/Mineria_Datos/blob/master/PythonB%C3%A1sico_1802920.ipynb)
