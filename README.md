@@ -26,3 +26,5 @@
 [Análisis BD](https://github.com/KarinaJrz/Mineria_Datos/blob/master/An%C3%A1lisisBD_1802920.pdf)
 
 [Python Básico](https://github.com/KarinaJrz/Mineria_Datos/blob/master/PythonB%C3%A1sico_1802920.ipynb)
+
+[Avance I PIA](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/Avance1-PIA_02_002.pdf)
