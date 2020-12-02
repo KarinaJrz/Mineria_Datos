@@ -41,3 +41,5 @@
 [Avance PIA II_002_02](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/AvancePIA_II_002_02.ipynb)
 
 [PIA_02_002](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/PIA_02_002.pdf)
+
+[Referencias_PIA](https://github.com/KarinaJrz/Mineria_Datos/blob/master/Referencias_PIA.ipynb)
